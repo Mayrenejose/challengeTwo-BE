@@ -1,0 +1,19 @@
+<div>
+    <div class="boxTitle">
+        <h1>Productos</h1>
+    </div>
+
+    <div class="bodyPage">
+        {{#each dataProducts}}
+        <div class="boxProduct">
+            <img src={{this.thumbnails}} alt="products" class="image">
+            
+            <div class="boxInfo">
+                <h2>{{this.title}}</h2>
+                <p>{{this.description}}</p>
+                <p>Precio: ${{this.price}}</p>
+            </div>
+        </div>
+    {{/each}}
+    </div>
+</div>

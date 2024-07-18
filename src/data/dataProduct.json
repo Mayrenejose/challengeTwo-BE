@@ -1,0 +1,16 @@
+[
+	{
+		"category": "libreria",
+		"code": "000001",
+		"description": "Lapiz de dinosaurio bebe, verde claro",
+		"price": 500,
+		"stock": 400,
+		"thumbnails": [
+			"https://kawaiihouse.cl/wp-content/uploads/2022/10/Lapiz-gel-dinosaurio-bebe-verde-claro-kawaii.jpg"
+		],
+		"title": "Lapiz de dinosaurio bebe",
+		"owner": "arturprofe@gmail.com",
+		"status": true,
+		"id": 1
+	}
+]

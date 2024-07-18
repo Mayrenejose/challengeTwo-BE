@@ -1,0 +1,26 @@
+{
+  "name": "finalproject-backenddev",
+  "version": "1.0.0",
+  "description": "final project to approve backend development course",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayrenejose/challenge-dev-backend-2.git"
+  },
+  "author": "Mayrene mora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayrenejose/challenge-dev-backend-2/issues"
+  },
+  "homepage": "https://github.com/Mayrenejose/challenge-dev-backend-2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
